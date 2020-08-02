@@ -24,8 +24,8 @@ lib64/libmorpho_sensor_fusion.so:priv-app/MiuiCamera/lib/arm64/libmorpho_sensor_
 etc/permissions/privapp-permissions-miuicamera.xml
 
 # Device features
-etc/device_features/ginkgo.xml
-etc/device_features/willow.xml
+etc/device_features/raphael.xml
+etc/device_features/raphaelin.xml
 
 # Fonts
 vendor/camera/fonts/MFYueYuan-Regular.ttf
